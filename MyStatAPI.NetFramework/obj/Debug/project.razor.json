@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Leonid\\Desktop\\MyStatAPI.Full\\MyStatAPI.NetFramework\\MyStatAPI.NetFramework.csproj",
+  "TargetFramework": "v4.7.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\bin\Debug\MyStatAPI.Full.xml
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\bin\Debug\MyStatAPI.Full.dll
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\bin\Debug\MyStatAPI.Full.pdb
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.NetFramework.csproj.CopyComplete
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.Full.dll
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.Full.pdb

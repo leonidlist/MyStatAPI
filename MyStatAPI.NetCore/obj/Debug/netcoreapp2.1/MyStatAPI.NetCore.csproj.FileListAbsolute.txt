@@ -1,0 +1,9 @@
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\bin\Debug\netcoreapp2.1\MyStatAPI.NetCore.deps.json
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\bin\Debug\netcoreapp2.1\MyStatAPI.NetCore.dll
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\bin\Debug\netcoreapp2.1\MyStatAPI.NetCore.pdb
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\obj\Debug\netcoreapp2.1\MyStatAPI.NetCore.csprojAssemblyReference.cache
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\obj\Debug\netcoreapp2.1\MyStatAPI.NetCore.csproj.CoreCompileInputs.cache
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\obj\Debug\netcoreapp2.1\MyStatAPI.NetCore.AssemblyInfoInputs.cache
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\obj\Debug\netcoreapp2.1\MyStatAPI.NetCore.AssemblyInfo.cs
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\obj\Debug\netcoreapp2.1\MyStatAPI.NetCore.dll
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetCore\obj\Debug\netcoreapp2.1\MyStatAPI.NetCore.pdb
