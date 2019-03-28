@@ -76,7 +76,7 @@ namespace MyStatAPI
             await Task.Run(() => DownloadHomeworkFile(homework, downloadPath));
         }
 
-        public async Task UploadHomeworkFileAsync(HomeworkEntity homework, string pathToFile)
+        public async Task UploadHomeworkFileAsync(int homework, string pathToFile)
         {
             await Task.Run(() => UploadHomeworkFile(homework, pathToFile));
         }
