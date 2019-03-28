@@ -60,6 +60,28 @@ namespace MyStatAPI
         }
         #endregion
 
+        #region AsyncWrap
+        public async Task TryLoginAsync()
+        {
+            await Task.Run(() => TryLogin());
+        }
+
+        public async Task CollectDailyPointsAsync()
+        {
+            await Task.Run(() => CollectDailyPoints());
+        }
+
+        public async Task DownloadHomeworkFileAsync(HomeworkEntity homework, string downloadPath)
+        {
+            await Task.Run(() => DownloadHomeworkFile(homework, downloadPath));
+        }
+
+        public async Task UploadHomeworkFileAsync(HomeworkEntity homework, string pathToFile)
+        {
+            await Task.Run(() => UploadHomeworkFile(homework, pathToFile));
+        }
+        #endregion
+
         public bool TryLogin(bool debug = false)
         {
             try

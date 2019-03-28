@@ -8,3 +8,4 @@ C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAP
 C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.NetFramework.csproj.CopyComplete
 C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.Full.dll
 C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.Full.pdb
+C:\Users\Leonid\Desktop\MyStatAPI.Full\MyStatAPI.NetFramework\obj\Debug\MyStatAPI.NetFramework.csprojAssemblyReference.cache
